@@ -1,0 +1,24 @@
+# Use the official Haskell image
+FROM haskell:latest
+
+# Install MySQL client and development libraries
+RUN apt-get update && apt-get install -y \
+    default-libmysqlclient-dev \
+    gcc \
+    make \
+    && apt-get clean
+
+# Set the working directory
+WORKDIR /app
+
+# Copy your Haskell files and the .cabal file
+COPY . .
+
+# Install dependencies and build the project
+RUN cabal update && cabal install --only-dependencies
+
+# Build the Haskell application
+RUN cabal build
+
+# Command to run your application
+CMD ["cabal", "run", "--", "path/to/your/internet_services.csv"]

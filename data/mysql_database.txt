@@ -1,0 +1,19 @@
+-- Create the database
+CREATE DATABASE INTERNET_SUBSCRIPTION;
+
+-- Use the newly created database
+USE INTERNET_SUBSCRIPTION;
+
+-- Create the table
+CREATE TABLE subscriptions (
+    CustomerID INT PRIMARY KEY,
+    Name VARCHAR(100),
+    SubscriptionType ENUM('Basic', 'Standard', 'Premium'),
+    SpeedMbps INT,
+    Price DECIMAL(10, 2),
+    StartDate DATE,
+    EndDate DATE,
+    Status ENUM('Active', 'Inactive'),
+    PaymentMethod ENUM('Credit Card', 'Debit Card', 'PayPal'),
+    ContractLength INT
+);

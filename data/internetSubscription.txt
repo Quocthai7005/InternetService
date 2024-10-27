@@ -1,0 +1,51 @@
+CustomerID,Name,SubscriptionType,SpeedMbps,Price,StartDate,EndDate,Status,PaymentMethod,ContractLength
+1,John Doe,Basic,25,29.99,2023-01-01,2024-01-01,Active,Credit Card,12
+2,Jane Smith,Standard,50,49.99,2023-01-15,2024-01-15,Active,PayPal,12
+3,Bob Johnson,Premium,100,69.99,2023-02-01,2024-02-01,Active,Debit Card,12
+4,Alice Williams,Basic,25,29.99,2023-02-20,2024-02-20,Active,Credit Card,12
+5,Charlie Brown,Standard,50,49.99,2023-03-05,2024-03-05,Active,PayPal,12
+6,Diana Prince,Premium,100,69.99,2023-03-20,2024-03-20,Active,Credit Card,12
+7,Eric Adams,Basic,25,29.99,2023-04-01,2024-04-01,Active,Debit Card,12
+8,Flora Green,Standard,50,49.99,2023-04-15,2024-04-15,Active,Credit Card,12
+9,George White,Premium,100,69.99,2023-05-01,2024-05-01,Active,PayPal,12
+10,Hannah Brown,Basic,25,29.99,2023-05-10,2024-05-10,Active,Credit Card,12
+11,Ian Black,Standard,50,49.99,2023-05-20,2024-05-20,Active,Debit Card,12
+12,Jenny Blue,Premium,100,69.99,2023-06-01,2024-06-01,Active,Credit Card,12
+13,Kevin Grey,Basic,25,29.99,2023-06-15,2024-06-15,Active,PayPal,12
+14,Lisa White,Standard,50,49.99,2023-07-01,2024-07-01,Active,Credit Card,12
+15,Mark Yellow,Premium,100,69.99,2023-07-15,2024-07-15,Active,Debit Card,12
+16,Nina Red,Basic,25,29.99,2023-08-01,2024-08-01,Active,Credit Card,12
+17,Oscar Pink,Standard,50,49.99,2023-08-10,2024-08-10,Active,PayPal,12
+18,Paula Orange,Premium,100,69.99,2023-08-20,2024-08-20,Active,Credit Card,12
+19,Quinn Violet,Basic,25,29.99,2023-09-01,2024-09-01,Active,Debit Card,12
+20,Rita Indigo,Standard,50,49.99,2023-09-15,2024-09-15,Active,Credit Card,12
+21,Steve Brown,Premium,100,69.99,2023-09-30,2024-09-30,Active,PayPal,12
+22,Tina White,Basic,25,29.99,2023-10-01,2024-10-01,Active,Credit Card,12
+23,Uma Green,Standard,50,49.99,2023-10-15,2024-10-15,Active,Debit Card,12
+24,Vincent Blue,Premium,100,69.99,2023-10-20,2024-10-20,Active,Credit Card,12
+25,Wendy Red,Basic,25,29.99,2023-11-01,2024-11-01,Active,PayPal,12
+26,Xander Grey,Standard,50,49.99,2023-11-15,2024-11-15,Active,Credit Card,12
+27,Yara Pink,Premium,100,69.99,2023-11-20,2024-11-20,Active,Debit Card,12
+28,Zachary Yellow,Basic,25,29.99,2023-12-01,2024-12-01,Active,Credit Card,12
+29,Ava Black,Standard,50,49.99,2023-12-10,2024-12-10,Active,PayPal,12
+30,Ben White,Premium,100,69.99,2023-12-15,2024-12-15,Active,Credit Card,12
+31,Cathy Green,Basic,25,29.99,2024-01-01,2025-01-01,Active,Debit Card,12
+32,David Brown,Standard,50,49.99,2024-01-15,2025-01-15,Active,Credit Card,12
+33,Emma Blue,Premium,100,69.99,2024-02-01,2025-02-01,Active,PayPal,12
+34,Frank Grey,Basic,25,29.99,2024-02-10,2025-02-10,Active,Credit Card,12
+35,Grace Pink,Standard,50,49.99,2024-02-20,2025-02-20,Active,Debit Card,12
+36,Henry Yellow,Premium,100,69.99,2024-03-01,2025-03-01,Active,Credit Card,12
+37,Isla Red,Basic,25,29.99,2024-03-10,2025-03-10,Active,PayPal,12
+38,Jack White,Standard,50,49.99,2024-03-20,2025-03-20,Active,Credit Card,12
+39,Kate Green,Premium,100,69.99,2024-04-01,2025-04-01,Active,Debit Card,12
+40,Liam Brown,Basic,25,29.99,2024-04-15,2025-04-15,Active,Credit Card,12
+41,Mia Blue,Standard,50,49.99,2024-04-20,2025-04-20,Active,PayPal,12
+42,Nate Grey,Premium,100,69.99,2024-05-01,2025-05-01,Active,Credit Card,12
+43,Olivia Pink,Basic,25,29.99,2024-05-10,2025-05-10,Active,Debit Card,12
+44,Paul Yellow,Standard,50,49.99,2024-05-15,2025-05-15,Active,Credit Card,12
+45,Quincy Red,Premium,100,69.99,2024-06-01,2025-06-01,Active,PayPal,12
+46,Rachel White,Basic,25,29.99,2024-06-10,2025-06-10,Active,Credit Card,12
+47,Sam Green,Standard,50,49.99,2024-06-20,2025-06-20,Active,Debit Card,12
+48,Tina Brown,Premium,100,69.99,2024-07-01,2025-07-01,Active,Credit Card,12
+49,Ursula Blue,Basic,25,29.99,2024-07-10,2025-07-10,Active,PayPal,12
+50,Vinny Grey,Standard,50,49.99,2024-07-20,2025-07-20,Active,Credit Card,12
